@@ -9,11 +9,12 @@
   <url>https://thinknyx.com</url>
 
   <properties>
-  	<sonar.projectKey>kmayer10_DevOps-Basics-Batch-4</sonar.projectKey>
-  	<sonar.organization>kmayer10</sonar.organization>
-  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  	<sonar.login>8503e55555ddb58e3daa1c87f348b2fa9f5a49c9</sonar.login>
-  </properties>
+  <sonar.projectKey>suresh0181_devops-basic-batch</sonar.projectKey>
+  <sonar.organization>suresh0181</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>74564766d658535592232627380390d217dbc527</sonar.login>
+
+</properties>
 	
   <dependencies>
     <dependency>
