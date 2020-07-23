@@ -7,6 +7,13 @@
   <version>1.0</version>
   <name>Indian States - Districts</name>
   <url>https://thinknyx.com</url>
+
+  <properties>
+  	<sonar.projectKey>kmayer10_DevOps-Basics-Batch-4</sonar.projectKey>
+  	<sonar.organization>kmayer10</sonar.organization>
+  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  	<sonar.login>8503e55555ddb58e3daa1c87f348b2fa9f5a49c9</sonar.login>
+  </properties>
 	
   <dependencies>
     <dependency>
