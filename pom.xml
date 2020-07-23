@@ -5,7 +5,7 @@
   <artifactId>indian-states</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>Indian States & Districts</name>
+  <name>Indian States - Districts</name>
   <url>https://thinknyx.com</url>
 	
   <dependencies>
